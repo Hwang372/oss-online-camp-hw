@@ -11,9 +11,9 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 자신의 username이 적힌 그림 파일이 하단에 보여야 합니다.
 
-![3](../resources/3.png)
+![3](../resources/3.PNG)
 
-![4](../resources/4.png)
+![4](../resources/4.PNG)
 
 ## 응원의 말
 
